@@ -1,3 +1,7 @@
+#private files
+storage.yaml
+token.yaml
+
 # Logs
 logs
 *.log
