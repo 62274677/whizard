@@ -1,6 +1,7 @@
 #private files
-storage.yaml
-token.yaml
+*.yaml
+*.json
+!package.json
 
 # Logs
 logs
